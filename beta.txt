@@ -1,0 +1,45 @@
+Marko
+Ayala
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador desconocido Local Area Connection:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::e845:1deb:f358:2546%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Local Area Connection* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Local Area Connection* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : Home
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:d521:7100:7787:3523:6af4:b8c1
+   Dirección IPv6 temporal. . . . . . : 2802:8010:d521:7100:d8b4:769d:9884:b2cc
+   Vínculo: dirección IPv6 local. . . : fe80::8ca2:eaf7:2bbb:a079%20
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.59
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2e96:82ff:febc:5f30%20
+                                       192.168.1.1
+Wed Jun  4 12:27:54     2025
+
