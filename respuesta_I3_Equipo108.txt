@@ -1,0 +1,21 @@
+Responde GAMMA (Cecilia Barrios):
+
+d- ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+Sí. Ambas ramas quedan actualizadas luego de que cada integrante realizó su parte del trabajo. GAMMA modificó el archivo beta.txt agregando su nombre, IP e información de red, y los cambios fueron subidos correctamente a la rama de trabajo.
+
+e- Detalle (explique) los problemas que tuvieron al hacer el merge:
+
+No tuvimos ningún problema al hacer el merge porque trabajamos en orden, avisándonos cada vez que hacíamos un cambio para evitar errores.
+
+f- ¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+```bash
+git checkout -b Barrios origin/Ayala
+nano beta.txt
+# Agregar nombre, IP, interfaz y hora
+Ctrl + O → Enter
+Ctrl + X
+git add beta.txt
+git commit -m "GAMMA (Cecilia Barrios) agregó sus datos a beta.txt"
+git push origin Barrios
