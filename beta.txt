@@ -74,3 +74,47 @@ Adaptador de Ethernet Movistar Fibra ALAN:
 $ date
 Wed Jun  4 12:42:23     2025
 
+Cecilia Barrios: --------------------------------------
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador desconocido Conexión de área local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::d43c:4591:f753:9d78%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fe:2179:15a:ecdf:9bbd:182e
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fe:2179:e5c:485f:6f6:8c84
+   Dirección IPv6 temporal. . . . . . : 2800:810:4fe:2179:2856:379e:94da:ef12
+   Vínculo: dirección IPv6 local. . . : fe80::b4b0:e8f4:a2d9:63b3%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.9
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::6e99:61ff:fef7:4e01%17
+                                       192.168.0.1
+Fecha y hora: 2025-06-07 19:35
