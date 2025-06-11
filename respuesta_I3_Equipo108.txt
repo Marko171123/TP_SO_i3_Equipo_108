@@ -1,3 +1,19 @@
+Respuestas BETA (Marko Ayala)
+
+a-¿Cómo queda el máster después de estos cambios?
+
+El master queda fusionada con la rama que creo GAMMA y con el archivo "beta.txt"que creo BETA en su rama.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+Si, una vez que se usa el comando "git pull" Beta puede ver todos los cambios que se realizaron. Siempre y cuando los cambios se suban al repositorio.
+
+c-¿que debió hacer en el punto 5 para poder hacer el merge ?
+
+Lo que se tuvo que hacer es:
+  -git checkout main. Para volver a la rama principal
+  -git merge Moschini. Para agregar todo lo que esta en la rama indicada
+  
 Responde GAMMA (Cecilia Barrios):
 
 d- ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
