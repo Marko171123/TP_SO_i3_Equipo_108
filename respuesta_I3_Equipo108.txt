@@ -35,3 +35,30 @@ Ctrl + X
 git add beta.txt
 git commit -m "GAMMA (Cecilia Barrios) agregó sus datos a beta.txt"
 git push origin Barrios
+
+
+
+Respuesta alfa:
+g- Para realizar el punto 8 alfa debio hacer lo siguiente:
+-primero clonar el repositorio
+    3  cd artal/
+    4  cd
+    5  git clone https://github.com/Marko171123/TP_SO_i3_Equipo_108.git
+    6  cd TP_SO_i3_Equipo_108
+luego entramos a beta.txt y colocamos los datos solicitados anteriormente con los siguientes comandos:
+   11  ipconfig
+   12  date
+   14  vim beta.txt
+luego de ya cargar los datos, le damos un commit y damos el push
+   15  git add .
+   20  git commit -m "Alfa agrega sus datoss a beta.txt solicitados del punto 8"
+   23  git push
+por ultimo agregaamos la respuesta g
+   24  ls
+   25  vim respuesta_I3_Equipo108.txt
+
+
+
+
+
+
