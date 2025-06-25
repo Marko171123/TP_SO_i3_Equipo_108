@@ -1,0 +1,64 @@
+Respuestas BETA (Marko Ayala)
+
+a-¿Cómo queda el máster después de estos cambios?
+
+El master queda fusionada con la rama que creo GAMMA y con el archivo "beta.txt"que creo BETA en su rama.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+Si, una vez que se usa el comando "git pull" Beta puede ver todos los cambios que se realizaron. Siempre y cuando los cambios se suban al repositorio.
+
+c-¿que debió hacer en el punto 5 para poder hacer el merge ?
+
+Lo que se tuvo que hacer es:
+  -git checkout main. Para volver a la rama principal
+  -git merge Moschini. Para agregar todo lo que esta en la rama indicada
+  
+Responde GAMMA (Cecilia Barrios):
+
+d- ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+Sí. Ambas ramas quedan actualizadas luego de que cada integrante realizó su parte del trabajo. GAMMA modificó el archivo beta.txt agregando su nombre, IP e información de red, y los cambios fueron subidos correctamente a la rama de trabajo.
+
+e- Detalle (explique) los problemas que tuvieron al hacer el merge:
+
+No tuvimos ningún problema al hacer el merge porque trabajamos en orden, avisándonos cada vez que hacíamos un cambio para evitar errores.
+
+f- ¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+```bash
+git checkout -b Barrios origin/Ayala
+nano beta.txt
+# Agregar nombre, IP, interfaz y hora
+Ctrl + O → Enter
+Ctrl + X
+git add beta.txt
+git commit -m "GAMMA (Cecilia Barrios) agregó sus datos a beta.txt"
+git push origin Barrios
+
+
+
+Respuesta alfa:
+g- Para realizar el punto 8 alfa debio hacer lo siguiente:
+-primero clonar el repositorio
+    3  cd artal/
+    4  cd
+    5  git clone https://github.com/Marko171123/TP_SO_i3_Equipo_108.git
+    6  cd TP_SO_i3_Equipo_108
+luego entramos a beta.txt y colocamos los datos solicitados anteriormente con los siguientes comandos:
+   11  ipconfig
+   12  date
+   14  vim beta.txt
+luego de ya cargar los datos, le damos un commit y damos el push
+   15  git add .
+   20  git commit -m "Alfa agrega sus datoss a beta.txt solicitados del punto 8"
+   23  git push
+por ultimo agregaamos la respuesta g
+   24  ls
+   25  vim respuesta_I3_Equipo108.txt
+
+
+
+
+
+
