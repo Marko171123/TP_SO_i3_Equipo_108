@@ -1,5 +1,8 @@
+ Barrios
+Marko Ayala: -------------------------------------------
 Marko
 Ayala
+ main
 Configuración IP de Windows
 
 
@@ -44,6 +47,44 @@ Adaptador de LAN inalámbrica Wi-Fi:
 Wed Jun  4 12:27:54     2025
 
 
+ Barrios
+
+
+Artal Tobias: -------------------------------------------------------
+
+Configuraci▒n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::893d:c4e1:87f6:ce23%15
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Movistar Fibra ALAN:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   Direcci▒n IPv6 . . . . . . . . . . : 2802:8010:21d0:db01:35af:9d7b:855f:e4c5
+   Direcci▒n IPv6 . . . . . . . . . . : 2802:8010:215d:e301:36db:7b63:5b96:4184
+   Direcci▒n IPv6 temporal. . . . . . : 2802:8010:215d:e301:9416:9c50:6b22:17f1
+   Direcci▒n IPv6 temporal. . . . . . : 2802:8010:21d0:db01:9416:9c50:6b22:17f1
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::f625:d4a2:c2fc:aa78%14
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.1.35
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::f669:42ff:fe23:1670%14
+                                       192.168.1.1
+
+$ date
+Wed Jun  4 12:42:23     2025
+
+Cecilia Barrios: --------------------------------------
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
 ARTAL TOBIAS (ALFA)
 $ ipconfig
 
@@ -59,11 +100,16 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . :
 
 Adaptador de LAN inalámbrica Local Area Connection* 1:
+ main
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
 
+ Barrios
+Adaptador desconocido Conexión de área local:
+
 Adaptador de LAN inalámbrica Local Area Connection* 2:
+ main
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
@@ -71,21 +117,48 @@ Adaptador de LAN inalámbrica Local Area Connection* 2:
 Adaptador de Ethernet Ethernet:
 
    Sufijo DNS específico para la conexión. . :
+ Barrios
+   Vínculo: dirección IPv6 local. . . : fe80::d43c:4591:f753:9d78%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
    Vínculo: dirección IPv6 local. . . : fe80::272e:5760:4eaf:b654%19
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.106
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
 Adaptador de LAN inalámbrica Wi-Fi:
+ main
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
+
+ Barrios
+Adaptador de LAN inalámbrica Conexión de área local* 2:
 
 Adaptador de Ethernet Bluetooth Network Connection:
+ main
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
+
+ Barrios
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fe:2179:15a:ecdf:9bbd:182e
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4fe:2179:e5c:485f:6f6:8c84
+   Dirección IPv6 temporal. . . . . . : 2800:810:4fe:2179:2856:379e:94da:ef12
+   Vínculo: dirección IPv6 local. . . : fe80::b4b0:e8f4:a2d9:63b3%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.9
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::6e99:61ff:fef7:4e01%17
+                                       192.168.0.1
+Fecha y hora: 2025-06-07 19:35
 
 date:
 Tue Jun 10 23:11:51     2025
-
+ main
